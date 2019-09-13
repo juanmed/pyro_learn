@@ -1,2 +1,5 @@
-# pyro_learn
-Following the tutorials and examples on pyro https://pyro.ai/
+# Learning PYRO
+
+[Pyro](https://pyro.ai/) is a Probabilistic Programming Language. This repository contains my tests and experiments learning to use it and following the [tutorials](https://pyro.ai/examples/).
+
+
