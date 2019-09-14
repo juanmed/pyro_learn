@@ -90,7 +90,7 @@ svi = SVI(model, guide, optimizer, loss = Trace_ELBO())
 
 
 # do gradient steps
-n = 30000
+n = 5000
 losses, a, b, ims, iss  = [], [], [], [], []
 for step in range(n):
     losses.append(svi.step(data))
